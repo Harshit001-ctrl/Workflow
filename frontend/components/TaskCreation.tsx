@@ -59,9 +59,9 @@ export default function TaskCreation() {
                   <SelectValue placeholder="Select an assignee" />
                 </SelectTrigger>
                 <SelectContent>
-                  <SelectItem value="john">John Doe</SelectItem>
-                  <SelectItem value="jane">Jane Smith</SelectItem>
-                  <SelectItem value="bob">Bob Johnson</SelectItem>
+                  <SelectItem value="Parkash">Parkash</SelectItem>
+                  <SelectItem value="Pardeep">Pardeep</SelectItem>
+                  <SelectItem value="Ankit">Ankit</SelectItem>
                 </SelectContent>
               </Select>
             </div>
